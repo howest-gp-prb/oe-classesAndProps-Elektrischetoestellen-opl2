@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prb.Elektrischetoestellen.Wpf", "Prb.Elektrischetoestellen.Wpf\Prb.Elektrischetoestellen.Wpf.csproj", "{B06E81C8-0FEC-47DC-849A-76AD0CC73833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prb.Elektrischetoestellen.Core", "Prb.Elektrischetoestellen.Core\Prb.Elektrischetoestellen.Core.csproj", "{BFBCAB94-9113-4D36-AE40-6C20C85AA7A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B06E81C8-0FEC-47DC-849A-76AD0CC73833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06E81C8-0FEC-47DC-849A-76AD0CC73833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06E81C8-0FEC-47DC-849A-76AD0CC73833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06E81C8-0FEC-47DC-849A-76AD0CC73833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBCAB94-9113-4D36-AE40-6C20C85AA7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBCAB94-9113-4D36-AE40-6C20C85AA7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBCAB94-9113-4D36-AE40-6C20C85AA7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBCAB94-9113-4D36-AE40-6C20C85AA7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D94846F-C2AA-4636-966A-A9B54163F9CA}
+	EndGlobalSection
+EndGlobal
